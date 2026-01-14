@@ -1,6 +1,0 @@
-contrat salarié: oui
-
-contrat salarié . convention collective:
-  titre: Convention collective
-  question: Quelle est votre convention collective ?
-  par défaut: "''"
